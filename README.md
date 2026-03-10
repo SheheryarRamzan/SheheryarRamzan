@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00d4ff,100:7928ca&height=220&section=header&text=Sheheryar%20Ramzan&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20Deep%20Learning&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1a0533&height=220&section=header&text=Sheheryar%20Ramzan&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20Deep%20Learning&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -273,7 +273,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SheheryarRamzan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SheheryarRamzan&theme=darkhub&no-frame=false&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -298,6 +298,6 @@ me.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:0a2a4a,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
